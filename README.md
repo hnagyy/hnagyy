@@ -1,7 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Habiba! <br/><a href="https://github.com/hnagyy"></a>,<a href="https://www.linkedin.com/in/habiba-nagy-14301b280/">Computer Engineer</a>
+
+<h2>👨‍💻 University Labs:</h2>
+
+- <b>COE 528 (Object Oriented Eng Analysis and Design)</b>
+  - [COE 528 Labs](https://github.com/hnagyy/COE-528)
+
+<h2>🌱 Projects:</h2>
+
 
 <!--
-**hnagyy/hnagyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
