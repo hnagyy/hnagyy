@@ -1,4 +1,4 @@
-<h1>Hi, I'm Habiba! <br/><a href="https://github.com/hnagyy"></a>,<a href="https://www.linkedin.com/in/habiba-nagy-14301b280/">Computer Engineer</a>
+<h1>Hi, I'm Habiba! <br/><a href="https://github.com/hnagyy"></a>Computer Engineer<a href="https://www.linkedin.com/in/habiba-nagy-14301b280/"></a>
 
 <h2>👨‍💻 University Labs:</h2>
 
