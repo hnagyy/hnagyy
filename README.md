@@ -16,6 +16,9 @@
 
 <h2>🌱 Projects:</h2>
 
+- <b>AI-Enhanced Educational Game for Children with Learning Disabilities</b>
+  - [COE 538 Project](https://github.com/hnagyy/AI-Enhanced-Educational-Game)
+  
 - <b>Robot Guidance Challenge</b>
   - [COE 538 Project](https://github.com/hnagyy/Microprocessor-Systems-COE538)
   
@@ -26,7 +29,13 @@
   - [COE 758 Project 1](https://github.com/hnagyy/Digital-Systems-COE758/tree/main/project1)
 
  - <b>Pong Game</b>
-  - [COE 758 Project 2](https://github.com/hnagyyDigital-Systems-COE758/project2)
+   - [COE 758 Project 2](https://github.com/hnagyy/Digital-Systems-COE758/project2)
+
+- <b>Smart Parking System (In Progress)</b>
+   - [COE 892 Project](https://github.com/hnagyy/Distributed-Cloud-Computing-COE892)
+
+- <b> Secure Banking System (In Progress)</b>
+   - [COE 817 Project](https://github.com/hnagyy/Network-Security-COE817)
  
 
 <!--
