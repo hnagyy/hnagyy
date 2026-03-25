@@ -3,7 +3,7 @@
 
 <h2>🌱 Projects:</h2>
 - <b>Robot Guidance Challenge</b>
-  - [COE 528 Labs](https://github.com/hnagyy/Microprocessor Systems COE538)
+  - [COE 538 Project](https://github.com/hnagyy/Microprocessor-Systems-COE538)
 
 <!--
 
