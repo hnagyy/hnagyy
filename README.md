@@ -1,12 +1,9 @@
 <h1>Hi, I'm Habiba! <br/><a href="https://github.com/hnagyy"></a>Computer Engineer<a href="https://www.linkedin.com/in/habiba-nagy-14301b280/"></a>
 
-<h2>👨‍💻 University Labs:</h2>
-
-- <b>COE 528 (Object Oriented Eng Analysis and Design)</b>
-  - [COE 528 Labs](https://github.com/hnagyy/COE-528)
 
 <h2>🌱 Projects:</h2>
-
+- <b>Robot Guidance Challenge</b>
+  - [COE 528 Labs](https://github.com/hnagyy/Microprocessor Systems COE538)
 
 <!--
 
