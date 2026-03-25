@@ -34,10 +34,12 @@
 - <b>Smart Parking System (In Progress)</b>
    - [COE 892 Project](https://github.com/hnagyy/Distributed-Cloud-Computing-COE892)
 
-- <b> Secure Banking System (In Progress)</b>
+- <b>Secure Banking System (In Progress)</b>
    - [COE 817 Project](https://github.com/hnagyy/Network-Security-COE817)
- 
 
+ - <b>Reading & Learning Journal Database (In Progress)</b>
+   - [COE 848 Project](https://github.com/hnagyy/Fundamentals-of-Data-Engineering-COE848)
+   - 
 <!--
 
 Here are some ideas to get you started:
