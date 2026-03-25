@@ -47,3 +47,11 @@
   <li><b>Frameworks & Tools:</b> Unity, Git, Node.js, React</li>
   <li><b>Concepts:</b> Data Structures, OOP, Machine Learning, Computer Vision</li>
 </ul>
+
+<h2>📫 Connect With Me</h2>
+
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/habiba-nagy-14301b280/">LinkedIn</a>
+  </li>
+</ul>
