@@ -17,10 +17,18 @@
 <h2>🌱 Projects:</h2>
 
 - <b>Robot Guidance Challenge</b>
-  -[COE 538 Project](https://github.com/hnagyy/Microprocessor-Systems-COE538)
+  - [COE 538 Project](https://github.com/hnagyy/Microprocessor-Systems-COE538)
   
-- <b>COE 528 (Object Oriented Eng Analysis and Design)</b>
+- <b>Multi-Media Center</b>
   - [COE 718 Project](https://github.com/hnagyy/Embedded-System-COE718)
+
+- <b>Memory Hierarchy: Cache Controller</b>
+  - [COE 758 Project 1](https://github.com/hnagyy/Digital-Systems-COE758/tree/main/project1)
+
+ - <b>Pong Game</b>
+  - [COE 758 Project 2](https://github.com/hnagyyDigital-Systems-COE758/project2)
+ 
+
 <!--
 
 Here are some ideas to get you started:
