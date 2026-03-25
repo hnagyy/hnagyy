@@ -6,15 +6,16 @@
   - [ELE 888 Labs](https://github.com/hnagyy/Intelligent-Systems-ELE888)
  
  - <b>Fundamentals-of-Data-Engineering</b>
-  - [COE 848 Labs](https://github.com/hnagyy/Fundamentals-of-Data-Engineering-COE848)
+   - [COE 848 Labs](https://github.com/hnagyy/Fundamentals-of-Data-Engineering-COE848)
 
  - <b>Distributed-Cloud-Computing</b>
-  - [COE 892 Labs](https://github.com/hnagyy/Distributed-Cloud-Computing-COE892)
-  - 
+   - [COE 892 Labs](https://github.com/hnagyy/Distributed-Cloud-Computing-COE892)
+
  - <b>Network-Security</b>
-  - [COE 817 Labs](https://github.com/hnagyy/Network-Security-COE817)
+   - [COE 817 Labs](https://github.com/hnagyy/Network-Security-COE817)
 
 <h2>🌱 Projects:</h2>
+
 - <b>Robot Guidance Challenge</b>
   -[COE 538 Project](https://github.com/hnagyy/Microprocessor-Systems-COE538)
   
